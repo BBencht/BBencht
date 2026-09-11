@@ -1,64 +1,70 @@
 <div align="center">
-  <!-- BRUTÁLIS ANIMÁLT NEON BANNER -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=headers&text=Bodori%20Bence%20Tamás&fontSize=38&fontColor=00F2FE&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Systems%20Architect%20|%20Maker&descSize=15&descColor=A0A0A0&descAlignY=65" width="100%" />
+  <!-- CIAN & LILA NEON DÍSZES FEJLÉC -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F2FE,50:7000FF,100:FF4500&height=220&section=headers&text=BBencht%20//%20SYS_ARCHITECT&fontSize=36&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Software%20Developer%20|%20Full-Stack%20|%20Maker&descSize=15&descColor=00F2FE&descAlignY=65" width="100%" />
 </div>
 
 <div align="center">
-  <h3>⚡ CORE SYSTEM ONLINE: BBencht // ARCHITECTURE & CODE ⚡</h3>
-  <p><em>"Building high-performance software, robust backends, and tangible hardware solutions."</em></p>
-  
-  <a href="https://bench.hu" target="_blank">
-    <img src="https://img.shields.io/badge/🌐_PORTFOLIO:_BENCH.HU-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black&color=13141C" alt="Portfolio" />
-  </a>
-  <img src="https://img.shields.io/badge/STATUS:_DEPLOYED-success?style=for-the-badge&color=13141C" alt="Status" />
-  <img src="https://img.shields.io/badge/FOCUS:_SYSTEMS_%26_IOT-7000FF?style=for-the-badge&color=13141C" alt="Focus" />
+  <img src="https://img.shields.io/badge/STATUS-ONLINE_%26_ACTIVE-00F2FE?style=for-the-badge&logo=codeforces&logoColor=black" alt="Status" />
+  <img src="https://img.shields.io/badge/PORTFOLIO-BENCH.HU-7000FF?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/TARGET-INNOVATION_%26_CODE-FF4500?style=for-the-badge&logo=rocket&logoColor=white" alt="Target" />
 </div>
 
 ---
 
 <div align="center">
-  <h2>🛠️ TECHNOLOGY MATRIX & WEAPONRY</h2>
-  <p><em>A precíziós eszközök, amelyekkel a rendszereket felépítem.</em></p>
+  <h2>⚡ TACTICAL TECHNOLOGY & LANGUAGE MATRIX ⚡</h2>
+  <p><em>Rendszerszintű programozás és többszintű technológiai felépítés.</em></p>
 </div>
 
-<!-- LEBEGŐ KÁRTYÁS ELRENDEZÉS (WEBES HATÁS) -->
+<!-- CSOPORTOSÍTOTT, SZÍNES NEON KÁRTYÁK -->
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
-      <!-- 1. OSZLOP: PROGRAMOZÁS -->
-      <td style="background: rgba(19, 20, 28, 0.7); border: 1px solid rgba(0, 242, 254, 0.3); border-radius: 12px; padding: 20px; vertical-align: top; width: 33%;">
-        <h4 style="color: #00F2FE; margin-top: 0; text-align: center;">💻 Backend & Languages</h4>
+      <!-- 1. CSOPORT: OBJEKTUMORIENTÁLT & BACKEND -->
+      <td style="background: linear-gradient(135deg, rgba(0, 242, 254, 0.1), rgba(19, 20, 28, 0.9)); border: 2px solid #00F2FE; border-radius: 15px; padding: 20px; vertical-align: top; width: 50%;">
+        <h3 style="color: #00F2FE; text-align: center; margin-top: 0;">🚀 Backend & Core Languages</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" /><br>
-          <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /><br>
-          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" /><br>
-          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin" /><br>
-          <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white" alt="C#" /><br>
-          <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" /><br>
-          <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-          <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+          <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" /><br><br>
+          <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" /><br><br>
+          <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
         </div>
+        <p style="color: #A0A0A0; font-size: 0.9em; text-align: center; margin-top: 15px;">Nagyteljesítményű backend rendszerek, skálázható architektúrák és logikai magok.</p>
       </td>
       
-      <!-- 2. OSZLOP: GIT ÉS INFRA -->
-      <td style="background: rgba(19, 20, 28, 0.7); border: 1px solid rgba(112, 0, 255, 0.3); border-radius: 12px; padding: 20px; vertical-align: top; width: 33%;">
-        <h4 style="color: #7000FF; margin-top: 0; text-align: center;">⚙️ Version Control & DB</h4>
+      <!-- 2. CSOPORT: SZKRIPTELÉS & DINAMIKA -->
+      <td style="background: linear-gradient(135deg, rgba(112, 0, 255, 0.1), rgba(19, 20, 28, 0.9)); border: 2px solid #7000FF; border-radius: 15px; padding: 20px; vertical-align: top; width: 50%;">
+        <h3 style="color: #7000FF; text-align: center; margin-top: 0;">⚡ Scripting & Automation</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" /><br>
-          <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /><br>
-          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white" alt="GitLab" /><br>
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /><br><br>
+          <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS" /><br><br>
+          <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
         </div>
+        <p style="color: #A0A0A0; font-size: 0.9em; text-align: center; margin-top: 15px;">Eszközvezérlés, automatizált szkriptek, IoT logika és dinamikus webes interakciók.</p>
+      </td>
+    </tr>
+    <tr>
+      <!-- 3. CSOPORT: WEB & MARKUP -->
+      <td style="background: linear-gradient(135deg, rgba(255, 69, 0, 0.1), rgba(19, 20, 28, 0.9)); border: 2px solid #FF4500; border-radius: 15px; padding: 20px; vertical-align: top; width: 50%;">
+        <h3 style="color: #FF4500; text-align: center; margin-top: 0;">🌐 Web & Markup</h3>
+        <div align="center">
+          <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+          <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+        </div>
+        <p style="color: #A0A0A0; font-size: 0.9em; text-align: center; margin-top: 15px;">Strukturált frontend dizájn és modern, reszponzív vizuális megjelenítés.</p>
       </td>
 
-      <!-- 3. OSZLOP: HARDVER ÉS MAKER -->
-      <td style="background: rgba(19, 20, 28, 0.7); border: 1px solid rgba(255, 69, 0, 0.3); border-radius: 12px; padding: 20px; vertical-align: top; width: 33%;">
-        <h4 style="color: #FF4500; margin-top: 0; text-align: center;">🖨️ Hardware & IoT</h4>
+      <!-- 4. CSOPORT: INFRA, DB & HARDVER -->
+      <td style="background: linear-gradient(135deg, rgba(0, 200, 83, 0.1), rgba(19, 20, 28, 0.9)); border: 2px solid #00C853; border-radius: 15px; padding: 20px; vertical-align: top; width: 50%;">
+        <h3 style="color: #00C853; text-align: center; margin-top: 0;">⚙️ Version Control & IoT</h3>
         <div align="center">
-          <img src="https://img.shields.io/badge/3D_Printing-Bambu_Lab-00C853?style=flat-square&logo=printables&logoColor=white" alt="3D" /><br>
-          <img src="https://img.shields.io/badge/IoT-ESP32-E91E63?style=flat-square&logo=espressif&logoColor=white" alt="ESP32" /><br>
-          <img src="https://img.shields.io/badge/Embedded-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino" />
+          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab" /><br><br>
+          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+          <img src="https://img.shields.io/badge/ESP32-E91E63?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+          <img src="https://img.shields.io/badge/Bambu_Lab-00C853?style=for-the-badge&logo=printables&logoColor=white" alt="3D" />
         </div>
+        <p style="color: #A0A0A0; font-size: 0.9em; text-align: center; margin-top: 15px;">Verziókezelés, relációs adatbázisok, mikrokontrollerek és 3D prototípusgyártás.</p>
       </td>
     </tr>
   </table>
@@ -67,30 +73,22 @@
 ---
 
 <div align="center">
-  <h2>🚀 BENCH.HU // ACTIVE SYSTEMS & PROJECTS</h2>
-  <p><em>Magas szintű szoftveres és hardveres fejlesztések valós időben.</em></p>
+  <h2>🚀 BENCH.HU // ACTIVE CORE SYSTEMS</h2>
 </div>
 
-<!-- PROJEKT PANELEK -->
+<!-- PROJEKT KÁRTYÁK SZÍNES KERETEKKEL -->
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
-      <td style="background: rgba(19, 20, 28, 0.8); border: 1px solid #2A2B3A; border-radius: 10px; padding: 20px; width: 50%;">
-        <h3 style="color: #00F2FE;">🎲 D&D Digital Tabletop System</h3>
-        <p>Egyedi D&D asztali vezérlőpult Python-alapú szoftverrel és mikrokontrolleres (ESP32) hibrid hardver integrációval.</p>
-        <p><b>Core:</b> Python, ESP32, IoT, GUI Architecture</p>
+      <td style="background: rgba(19, 20, 28, 0.9); border-left: 5px solid #00F2FE; border-radius: 10px; padding: 20px; width: 50%;">
+        <h3 style="color: #00F2FE; margin-top: 0;">🎲 D&D Digital Tabletop Control</h3>
+        <p>Egyedi D&D asztali vezérlőpult Python szoftverrel és ESP32 mikrokontrolleres hibrid hardvereszközökkel.</p>
+        <p><b>Tech Stack:</b> Python, ESP32, IoT</p>
       </td>
-      <td style="background: rgba(19, 20, 28, 0.8); border: 1px solid #2A2B3A; border-radius: 10px; padding: 20px; width: 50%;">
-        <h3 style="color: #7000FF;">💻 Full-Stack Web & Software</h3>
-        <p>Komplett backend logikák, optimalizált adatbázis-kezelés és webes alkalmazások strukturált megvalósítása.</p>
-        <p><b>Core:</b> Java, PHP, JavaScript, MySQL</p>
-      </td>
-    </tr>
-    <tr>
-      <td style="background: rgba(19, 20, 28, 0.8); border: 1px solid #2A2B3A; border-radius: 10px; padding: 20px; width: 50%;" colspan="2">
-        <h3 style="color: #FF4500; text-align: center;">⚙️ Maker Innovations & Prototyping</h3>
-        <p align="center">Mikrokontroller alapú egyedi kütyük, CAD tervezés és Bambu Lab (PLA/PETG) alapú precíziós 3D prototípusgyártás.</p>
-        <p align="center"><b>Core:</b> CAD, Bambu Lab, Hardware Integration</p>
+      <td style="background: rgba(19, 20, 28, 0.9); border-left: 5px solid #7000FF; border-radius: 10px; padding: 20px; width: 50%;">
+        <h3 style="color: #7000FF; margin-top: 0;">💻 Full-Stack Web Systems</h3>
+        <p>Magas hatékonyságú backend megoldások, adatbázis-struktúrák és optimalizált webes fejlesztések.</p>
+        <p><b>Tech Stack:</b> Java, PHP, JavaScript, MySQL</p>
       </td>
     </tr>
   </table>
@@ -99,7 +97,7 @@
 ---
 
 <div align="center">
-  <h2>📊 TELEMETRY & STATS</h2>
+  <h2>📊 LIVE TELEMETRY & STATS</h2>
 </div>
 
 <div align="center">
