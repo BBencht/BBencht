@@ -16,7 +16,7 @@
   <p><em>Rendszerszintű programozás és többszintű technológiai felépítés.</em></p>
 </div>
 
-<!-- CSOPORTOSÍTOTT, SZÍNES NEON KÁRTYÁK -->
+<!-- CSOPORTOSÍTOTT, SZÍNES NEON KÁRTYÁK (JAVÍTOTT STRUKTÚRA) -->
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
@@ -76,7 +76,7 @@
   <h2>🚀 BENCH.HU // ACTIVE CORE SYSTEMS</h2>
 </div>
 
-<!-- PROJEKT KÁRTYÁK SZÍNES KERETEKKEL -->
+<!-- PROJEKT KÁRTYÁK -->
 <div align="center">
   <table style="border: none; background: transparent;">
     <tr>
@@ -101,7 +101,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BBencht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141C&title_color=00F2FE&icon_color=7000FF&text_color=A0A0A0&hide=prs" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BBencht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141C&title_color=00F2FE&icon_color=7000FF&text_color=A0A0A0" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBencht&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141C&title_color=00F2FE&text_color=A0A0A0" width="48%" />
 </div>
 
