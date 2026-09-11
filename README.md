@@ -4,8 +4,8 @@
 
 <div align="center">
   <a href="https://bench.hu" target="_blank"><img src="https://img.shields.io/badge/🌐_PORTFOLIO-BENCH.HU-00F2FE?style=for-the-badge&logo=google-chrome&logoColor=black" /></a>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-7000FF?style=for-the-badge&logo=codeforces&logoColor=white" />
-  <img src="https://img.shields.io/badge/FOCUS-INNOVATION_%26_CODE-FF4500?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-SYSTEM_ONLINE-7000FF?style=for-the-badge&logo=codeforces&logoColor=white" />
+  <img src="https://img.shields.io/badge/TARGET-INNOVATION_%26_CODE-FF4500?style=for-the-badge&logo=rocket&logoColor=white" />
 </div>
 
 ---
@@ -15,20 +15,28 @@
 </div>
 
 ### 🚀 1. Backend & Core Languages
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" />  
-> *Nagyteljesítményű backend rendszerek, skálázható architektúrák és logikai magok.*
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" /> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white" /> <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" />  
+> *Nagyteljesítményű backend rendszerek, mobilalkalmazások és skálázható architektúrák.*
 
 ### ⚡ 2. Scripting & Automation
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />  
-> *Eszközvezérlés, automatizált szkriptek, IoT logika és dinamikus webes interakciók.*
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />  
+> *Eszközvezérlés, automatizált szkriptek, logika és dinamikus webes interakciók.*
 
 ### 🌐 3. Web & Markup
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />  
 > *Strukturált frontend dizájn és modern, reszponzív vizuális megjelenítés.*
 
-### ⚙️ 4. Version Control, DB & IoT
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/ESP32-E91E63?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/Bambu_Lab-00C853?style=for-the-badge&logo=printables&logoColor=white" />  
-> *Verziókezelés, relációs adatbázisok, mikrokontrollerek és 3D prototípusgyártás.*
+### ⚙️ 4. Version Control & Database
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />  
+> *Verziókezelés, CI/CD pipeline-ok és relációs adatbázis-kezelés.*
+
+### 🔌 5. IoT & Embedded Systems (ESP32)
+<img src="https://img.shields.io/badge/ESP32-E91E63?style=for-the-badge&logo=espressif&logoColor=white" /> <img src="https://img.shields.io/badge/IoT_Modules-CC1101-00F2FE?style=for-the-badge&logo=arduino&logoColor=white" />  
+> *Beágyazott mikrokontrolleres rendszerek, egyedi hardvereszközök és rádiófrekvenciás integrációk.*
+
+### 🖨️ 6. 3D Prototyping & Maker Lab (Bambu Lab)
+<img src="https://img.shields.io/badge/Bambu_Lab-A1-00C853?style=for-the-badge&logo=printables&logoColor=white" /> <img src="https://img.shields.io/badge/Materials-PLA_%2F_%2PETG-FF4500?style=for-the-badge&logo=codesandbox&logoColor=white" />  
+> *Precíziós mechanikai alkatrészek, egyedi burkolatok és prototípusok tervezése és nyomtatása.*
 
 ---
 
@@ -37,19 +45,15 @@
 </div>
 
 * **🎲 D&D Digital Tabletop Control:** Egyedi D&D asztali vezérlőpult Python szoftverrel és ESP32 mikrokontrolleres hibrid hardvereszközökkel. *(Tech: Python, ESP32, IoT)*
-* **💻 Full-Stack Web Systems:** Magas hatékonyságú backend megoldások, adatbázis-struktúrák és optimalizált webes fejlesztések. *(Tech: Java, PHP, JavaScript, MySQL)*
+* **💻 Full-Stack Web Systems:** Magas hatékonyságú backend megoldások, adatbázis-struktúrák és optimalizált webes fejlesztések. *(Tech: Java, JavaScript, MySQL)*
 
 ---
 
 <div align="center">
-  <h2>📊 LIVE TELEMETRY & STATS</h2>
+  <h2>🔮 SYSTEM ARCHITECTURE CORE</h2>
+  <p><em>"A tökéletes kód a hardver és a szoftver zökkenőmentes szimbiózisából születik."</em></p>
   
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=BBencht&show_icons=true&theme=tokyonight&hide_border=true&bg_color=13141C&title_color=00F2FE&icon_color=7000FF&text_color=A0A0A0" width="48%" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BBencht&layout=compact&theme=tokyonight&hide_border=true&bg_color=13141C&title_color=00F2FE&text_color=A0A0A0" width="48%" />
-  </p>
-
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=BBencht&theme=tokyonight&hide_border=true&background=13141C" width="100%" />
-  </p>
+  <br>
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BBencht&theme=tokyonight&hide_border=true&color=00F2FE&line=7000FF&point=FF4500&background=13141C" width="100%" />
 </div>
